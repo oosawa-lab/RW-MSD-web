@@ -33,3 +33,7 @@ Use the slider to select the number of steps for the random walk.
 The random walk trajectory will be displayed on the left.
 The log-log MSD plot will be shown on the right.
 The app automatically calculates and displays the diffusion coefficient and slope of the MSD plot.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
